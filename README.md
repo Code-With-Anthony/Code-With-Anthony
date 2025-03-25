@@ -1,4 +1,7 @@
-<h1 align="center" style="border-bottom: none !important;!i;!;">Hi 👋, I'm Anthony Dourado</h1>
+<style>
+#foo {border-bottom: none !important;}
+</style>
+<h1 align="center" id="foo">Hi 👋, I'm Anthony Dourado</h1>
 <h2 align="center">A passionate Software Engineer</h2>
 
 <p align="center">
