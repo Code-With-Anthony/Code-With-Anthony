@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-anthony" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-anthony" alt="code-with-anthony" /></a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysqlgit,kubernetes,docker" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Portfolio**
 
