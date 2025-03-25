@@ -66,6 +66,10 @@ Feel free to reach out through:
   </a> 
 </p>
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anthony-dourado/)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anthonydourado111@gmail.com)
+
+
 
 
 ---
