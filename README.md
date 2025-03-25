@@ -7,7 +7,7 @@
   </a>
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Code-With-Anthony/langs)](https://githubtrends.io)
+(https://github-readme-stats.vercel.app/api?username=Code-With-Anthony)](https://github.com/Code-With-Anthony/github-readme-stats)
 
 https://api.githubtrends.io/user/svg/Code-With-Anthony/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark
 
