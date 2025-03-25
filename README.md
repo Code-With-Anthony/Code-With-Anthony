@@ -7,20 +7,6 @@
   </a>
 </p>
 
-
-[![](https://raw.githubusercontent.com/Code-With-Anthony/github-profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/Code-With-Anthony/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Code-With-Anthony/github-profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/Code-With-Anthony/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Code-With-Anthony/github-profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/Code-With-Anthony/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Code-With-Anthony/github-profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/Code-With-Anthony/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Code-With-Anthony/github-profile-summary-cards/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/Code-With-Anthony/github-profile-summary-cards)
-
-
-- 🔭 I’m currently working on **Portfolio**
-
-- 💬 Ask me about **Javascript, React, SQL or MongoDB, NodeJS, Ui libraries such as Material UI, Prime React**
-
-- 📫 How to reach me **anthonydourado111@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-dourado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-dourado/" height="30" width="40" /></a>
@@ -28,10 +14,3 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/anthonydourado111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anthonydourado111/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anthonydorxyf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anthonydorxyf/" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-anthony" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-anthony&show_icons=true&locale=en&layout=compact" alt="code-with-anthony" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-anthony&show_icons=true&locale=en" alt="code-with-anthony" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-anthony&" alt="code-with-anthony" /></p>
