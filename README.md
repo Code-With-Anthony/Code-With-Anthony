@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Dourado</h1>
+<h2 align="center">A passionate Software Engineer</h2>
 
 <p align="center">
-<h2 align="center">A passionate Software Engineer</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,kubernetes,docker,figma,tailwind,materialui" />
   </a>
