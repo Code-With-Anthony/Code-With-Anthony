@@ -65,13 +65,14 @@ Feel free to reach out through:
   <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <br />
-
+</p>
+<br/>
+<p align="left">
   <strong>HackerRank</strong>:  
   <a href="https://www.hackerrank.com/profile/anthonydourado11" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <br />
+</p>
 
   <strong>LeetCode</strong>:  
   <a href="https://leetcode.com/u/anthonydourado111/" target="_blank">
