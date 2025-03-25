@@ -65,28 +65,22 @@ Feel free to reach out through:
   <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-<br/>
-<p align="left">
-  <strong>HackerRank</strong>:  
+  <br/>
+  
   <a href="https://www.hackerrank.com/profile/anthonydourado11" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-</p>
 
-  <strong>LeetCode</strong>:  
   <a href="https://leetcode.com/u/anthonydourado111/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <br />
 
-  <strong>GeeksforGeeks</strong>:  
   <a href="https://www.geeksforgeeks.org/user/anthonydorxyf/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
   <br />
 
-  <strong>Email</strong>
   <a href="mailto:anthonydourado111@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
