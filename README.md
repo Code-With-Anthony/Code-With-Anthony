@@ -58,13 +58,14 @@ I'm always excited to connect, collaborate, and discuss innovative projects!
 Feel free to reach out through:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank" style="text-decoration: none !important; border: none !important; outline: none !important; display: inline-block !important;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:anthonydourado111@gmail.com" >
-    <img src="https://skillicons.dev/icons?i=gmail" style="text-decoration: none; display: inline-block;"/>
+  <a href="mailto:anthonydourado111@gmail.com" style="text-decoration: none !important; border: none !important; outline: none !important; display: inline-block !important;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
 </p>
+
 
 
 ---
