@@ -66,9 +66,15 @@ Feel free to reach out through:
   </a>
 </p>
 
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anthony-dourado/)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anthonydourado111@gmail.com)
+</div style="display: flex; gap: 5px">
+  <div>
+    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anthony-dourado/)  
+  </div>
+  <div>
+    [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anthonydourado111@gmail.com)
+  </div>
+<div>
+  
 
 
 
