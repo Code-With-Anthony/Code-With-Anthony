@@ -57,8 +57,14 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 I'm always excited to connect, collaborate, and discuss innovative projects!  
 Feel free to reach out through:
 
-**LinkedIn** [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anthony-dourado/)  
-**Gmail** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anthonydourado111@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/anthony-dourado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-dourado" height="30" width="40" /></a>
+<a href="https://instagram.com/anthony.dourado1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony.dourado1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anthonydourado11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anthonydourado11" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anthonydourado111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anthonydourado111" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anthonydorxyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anthonydorxyf" height="30" width="40" /></a>
+</p>
+
 
 ---
 
