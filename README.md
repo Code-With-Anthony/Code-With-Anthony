@@ -61,17 +61,14 @@ Feel free to reach out through:
 ## 📫 Get In Touch
 
 <p align="left">
-<!--   <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp; -->
 
   <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 
   <a href="https://www.hackerrank.com/profile/anthonydourado11" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
 
   <a href="https://leetcode.com/u/anthonydourado111/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
@@ -82,7 +79,7 @@ Feel free to reach out through:
   </a>&nbsp;&nbsp;
 
   <a href="mailto:anthonydourado111@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" />
   </a>
 </p>
 
