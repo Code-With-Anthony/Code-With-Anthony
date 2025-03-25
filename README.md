@@ -57,23 +57,9 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 I'm always excited to connect, collaborate, and discuss innovative projects!  
 Feel free to reach out through:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anthony-dourado/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:anthonydourado111@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
-</div style="display: flex; gap: 5px">
-  <div>
-    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anthony-dourado/)  
-  </div>
-  <div>
-    [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anthonydourado111@gmail.com)
-  </div>
-<div>
+[![LinkedIn](https://www.linkedin.com/in/anthony-dourado/)  
+[![Gmail]](mailto:anthonydourado111@gmail.com)
   
 
 
