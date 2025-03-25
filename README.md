@@ -56,9 +56,6 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 
 I'm always excited to connect, collaborate, and discuss innovative projects!  
 Feel free to reach out through:
-<h3 align="left">Connect with me:</h3>
-
-## 📫 Get In Touch
 
 <p align="left">
 
@@ -67,7 +64,7 @@ Feel free to reach out through:
   </a>
 
   <a href="https://www.hackerrank.com/profile/anthonydourado11" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" styles={{border-radius: '2px'}}/>
   </a>
 
   <a href="https://leetcode.com/u/anthonydourado111/" target="_blank">
