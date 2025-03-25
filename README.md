@@ -7,10 +7,6 @@
   </a>
 </p>
 
-(https://github-readme-stats.vercel.app/api?username=Code-With-Anthony)](https://github.com/Code-With-Anthony/github-readme-stats)
-
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-With-Anthony)](https://github.com/Code-With-Anthony/github-readme-stats)
-
 - 🔭 I’m currently working on **Portfolio**
 
 - 💬 Ask me about **Javascript, React, SQL or MongoDB, NodeJS, Ui libraries such as Material UI, Prime React**
