@@ -25,14 +25,17 @@ Hello! I'm **Anthony Dourado**, a dedicated software engineer with a passion for
 
 ## 🚀 Projects
 
-- **Project One:** [Project Name](#)  
-  A brief description of what this project does, the technologies used, and its main features.
+- **Portfolio Website**  
+  *Technologies Used:* React, Next.js, Tailwind CSS  
+  A personal portfolio website designed to showcase my artwork and development projects. This responsive site features an elegant design, seamless navigation, and dynamic content rendering, providing visitors with an engaging experience while exploring my creative work.
 
-- **Project Two:** [Project Name](#)  
-  A short overview of the project, highlighting the challenges solved and the creative solutions implemented.
+- **Job Portal**  
+  *Technologies Used:* MERN Stack (MongoDB, Express.js, React.js, Node.js), Spring Boot  
+  A comprehensive job portal that bridges employers and job seekers. Employers can post job openings with detailed descriptions, while candidates can search, filter, and apply for positions. The platform ensures secure user authentication and offers a user-friendly interface for efficient navigation.
 
-- **Project Three:** [Project Name](#)  
-  A concise description of the project goals and the stack used to build a dynamic solution.
+- **Pinterest Clone**  
+  *Technologies Used:* MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+  A full-fledged clone of the Pinterest application, allowing users to upload, share, and discover images. The platform supports user authentication, image uploads, and displays content in a visually appealing grid layout, mimicking the core functionalities of the original Pinterest platform.
 
 Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anthony).
 
@@ -62,7 +65,7 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 I'm always excited to connect, collaborate, and discuss innovative projects!  
 Feel free to reach out through:
 - [LinkedIn](https://www.linkedin.com/in/anthony-dourado/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [anthonydourado111@gmail.com](mailto:anthonydourado111@gmail.com)
 
 ---
 
