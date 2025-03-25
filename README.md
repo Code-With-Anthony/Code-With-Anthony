@@ -45,9 +45,9 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-With-Anthony&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-With-Anthony&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-With-Anthony&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-With-Anthony&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
