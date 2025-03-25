@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Dourado</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h2 align="center">A passionate Software Engineer</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
