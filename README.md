@@ -9,6 +9,8 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Code-With-Anthony/langs)](https://githubtrends.io)
 
+https://api.githubtrends.io/user/svg/Code-With-Anthony/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark
+
 - 🔭 I’m currently working on **Portfolio**
 
 - 💬 Ask me about **Javascript, React, SQL or MongoDB, NodeJS, Ui libraries such as Material UI, Prime React**
