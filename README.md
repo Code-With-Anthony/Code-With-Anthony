@@ -9,7 +9,7 @@
 
 (https://github-readme-stats.vercel.app/api?username=Code-With-Anthony)](https://github.com/Code-With-Anthony/github-readme-stats)
 
-[(https://github-readme-stats.vercel.app/api?username=Code-With-Anthony)](https://github.com/Code-With-Anthony/github-readme-stats)
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-With-Anthony)](https://github.com/Code-With-Anthony/github-readme-stats)
 
 - 🔭 I’m currently working on **Portfolio**
 
