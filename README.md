@@ -59,7 +59,10 @@ Feel free to reach out through:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anthony-dourado/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:anthonydourado111@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
 </p>
 
