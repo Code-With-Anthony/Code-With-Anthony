@@ -7,51 +7,7 @@
   </a>
 </p>
 
-# Code-With-Anthony's GitHub Wrapped 🎉
-
-![Private Access: True](https://img.shields.io/badge/Private_Access-True-green)
-
-## 📅 Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/Code-With-Anthony)
-
-- **Total Contributions**: `940`
-- **Active Days**: `178`
-- **Longest Streak**: `46 days`
-- **Longest Gap**: `18 days`
-- **Weekend Activity**: `24%`
-- **Busiest Day**: `19 contributions on 02/18/2023`
-
-## 📊 Lines of Code (LOC) Analysis
-
-| Metric | Value |
-|--------|------:|
-| **LOC Additions** | `+55,000` |
-| **LOC Deletions** | `-32,000` |
-| **Typical Commit (Additions / Deletions)** | `107 / 62` |
-| **Avg. LOC Changed Per Day** | `240` |
-
-### **Most Used Languages**
-- **TypeScript**: `+38k LOC`
-- **Python**: `+41k LOC`
-
-### **Most Active Repositories**
-- **analytics**: `~8k LOC`
-- **private**: `~27k LOC`
-- **DExplicator**: `~14k LOC`
-
-## 📆 Select Year
-
-🔄 *[Click here](#)* to refresh stats for a different year.
-
----
-
-### **How This Works**
-This dashboard updates automatically using:
-- **GitHub API** to fetch real-time data
-- **GitHub Actions** to update this README every 24 hours
-- **Custom scripts** to process LOC changes and generate stats
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Code-With-Anthony/langs)](https://githubtrends.io)
 
 - 🔭 I’m currently working on **Portfolio**
 
