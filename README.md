@@ -45,10 +45,7 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-With-Anthony&show_icons=true&theme=light" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-With-Anthony&layout=compact&theme=light" alt="Top Languages" />
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
 
 ---
 
