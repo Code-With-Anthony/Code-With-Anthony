@@ -15,6 +15,14 @@ Hello! I'm **Anthony Dourado**, a dedicated software engineer with a passion for
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github.com/code-with-anthony/code-with-anthony/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🚀 Projects
 
 - **Portfolio Website**  
@@ -40,14 +48,6 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 - **Backend:** Node.js, Express.
 - **Databases:** MongoDB, MySQL.
 - **Tools & Platforms:** Git, Docker, Kubernetes, Figma, etc.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/code-with-anthony/code-with-anthony/blob/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
