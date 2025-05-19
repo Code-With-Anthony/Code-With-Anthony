@@ -45,7 +45,9 @@ Explore more of my work on my [GitHub profile](https://github.com/Code-With-Anth
 
 ## 📈 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+<p align="center">
+  <img src="https://github.com/code-with-anthony/code-with-anthony/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
